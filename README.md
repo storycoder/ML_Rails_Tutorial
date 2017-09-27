@@ -13,5 +13,5 @@ The crux of the learning via Rails Tutorial is accomplished through completion o
 I've created three orphan branches to hold in the repo for each seperate project. To access each individual project, you can either use the pull down branch tab or follow the links below.
 
 * **Hello App:** [Devlopment](https://github.com/storycoder/ML_Rails_Tutorial/tree/hello_app) | [Production](https://young-badlands-53758.herokuapp.com/)
-* **Toy App:** [Development](https://github.com/storycoder/ML_Rails_Tutorial/tree/toy_app) | [Production](https://github.com/storycoder/ML_Rails_Tutorial)
-* **Sample App:** [Development](https://github.com/storycoder/ML_Rails_Tutorial/tree/sample_app) | [Production](https://github.com/storycoder/ML_Rails_Tutorial) 
+* **Toy App:** [Development](https://github.com/storycoder/ML_Rails_Tutorial/tree/toy_app) | Production
+* **Sample App:** [Development](https://github.com/storycoder/ML_Rails_Tutorial/tree/sample_app) | Production
